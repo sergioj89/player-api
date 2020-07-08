@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sergioj89/player-api/issues"
   },
-  "homepage": "https://github.com/sergioj89/player-api#readme"
+  "homepage": "https://github.com/sergioj89/player-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
